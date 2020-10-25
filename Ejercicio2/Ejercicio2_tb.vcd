@@ -1,0 +1,76 @@
+$date
+	Sun Oct 25 05:15:18 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Ejercicio2_tb $end
+$var wire 8 ! Data [7:0] $end
+$var reg 12 " Address [11:0] $end
+$scope module R1 $end
+$var wire 12 # Address [11:0] $end
+$var wire 8 $ Data [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx $
+bx #
+bx "
+bx !
+$end
+#1
+b1010 !
+b1010 $
+b1010 "
+b1010 #
+#2
+b11001 !
+b11001 $
+b11001 "
+b11001 #
+#3
+b110010 !
+b110010 $
+b110010 "
+b110010 #
+#4
+b1001011 !
+b1001011 $
+b1001011 "
+b1001011 #
+#5
+b1100100 !
+b1100100 $
+b1100100 "
+b1100100 #
+#6
+b100001 !
+b100001 $
+b100001 "
+b100001 #
+#7
+b1100011 !
+b1100011 $
+b1100011 "
+b1100011 #
+#8
+b10101 !
+b10101 $
+b10101 "
+b10101 #
+#9
+b1001001 !
+b1001001 $
+b1001001 "
+b1001001 #
+#10
+b11110101 !
+b11110101 $
+b11110101 "
+b11110101 #
+#11
